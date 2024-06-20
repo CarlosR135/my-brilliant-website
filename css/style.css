@@ -3,7 +3,6 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	background-image:url(./images/castles/castle-moors-castle3.jpg)
 
 }
 
@@ -11,6 +10,13 @@ body {
 	font-family: Arial, sans-serif;
 	background-color: #c01f1f;
 }
+
+
+
+body img{
+	width: 150px;
+}
+
 
 header {
 	background-color: #333333c4;
@@ -46,7 +52,7 @@ section {
 	background-color: #fff;
 	padding: 20px;
 	margin: 20px;
-	width: 40%; /* default width for desktop */
+	width: 550px; /* default width for desktop */
 }
 
 h1, h2 {
@@ -65,6 +71,10 @@ h1, h2 {
 	section {
 		width: 100%; /* full width for mobile */
 	}
+
+	body{
+		background-color: aqua;
+	}
 }
 
 /* Tablet devices (max-width: 768px) */
@@ -80,6 +90,16 @@ h1, h2 {
     }
 }
 
+footer{
+	position:fixed;
+	background-color: #333;
+	bottom: 0;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	margin-top: 500x;
+	padding-top: 2%;
+}
 /*.braga {
  
 		background-image: url('css/images/braga-church1.jpg');
