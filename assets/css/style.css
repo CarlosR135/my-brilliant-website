@@ -7,7 +7,7 @@
 }
 
 body {
-	font-family: Arial, sans-serif;
+	font-family: Bank,Verdana, Geneva, Tahoma, sans-serif;
 	background-color: #c01f1f;
 }
 
@@ -20,9 +20,11 @@ body img{
 
 header {
 	background-color: #333333c4;
-	color: #fff;
+	color: #222121;
 	padding: 20px;
 	text-align: center;
+
+
 }
 
 nav ul {
@@ -31,6 +33,7 @@ nav ul {
 	padding: 0;
 	display: flex;
 	justify-content: space-between;
+	color: #18191a;
 }
 
 nav li {
@@ -38,8 +41,10 @@ nav li {
 }
 
 nav a {
-	color: #333;
+	color: #232422;
 	text-decoration: none;
+	text-size-adjust: 40px;
+	
 }
 
 main {
@@ -100,12 +105,55 @@ footer{
 	margin-top: 500x;
 	padding-top: 2%;
 }
-/*.braga {
- 
-		background-image: url('css/images/braga-church1.jpg');
-		background-size: cover; 
-		background-position: center; 
-		width: 100%; 
-		height: 400px; 
-	}
-	*/
+form{
+	max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+form h2{
+	display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #555;
+}
+form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #555;
+}
+
+/* Estilo dos inputs e textarea */
+form input[type="text"],
+form input[type="email"],
+form textarea {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: #333;
+}
+
+/* Estilo do botão */
+form button {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Estilo do botão ao passar o mouse */
+form button:hover {
+    background-color: #0056b3;
+}
