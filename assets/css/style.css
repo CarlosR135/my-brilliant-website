@@ -20,20 +20,24 @@ body img{
 
 header {
 	background-color: #333333c4;
-	color: #222121;
+	color: #ffffff;
 	padding: 20px;
 	text-align: center;
 
 
 }
+nav{
+	background-color:#333;
+	box-shadow: 0 4px 8px rgba(0,0,0,0,0.1)
+}
 
 nav ul {
-	list-style: none;
+	list-style:none;
 	margin: 0;
 	padding: 0;
 	display: flex;
 	justify-content: space-between;
-	color: #18191a;
+	align-items:center;
 }
 
 nav li {
@@ -41,10 +45,16 @@ nav li {
 }
 
 nav a {
-	color: #232422;
+	color: #ffffff;
 	text-decoration: none;
-	text-size-adjust: 40px;
+	padding:14px 20px;
+	display:block;
+	transition: background-color 0.3s, color 0.3s;
 	
+}
+nav a:hover{
+	background: color #575757;
+	color:#ffffff;
 }
 
 main {
@@ -127,7 +137,7 @@ form label {
     color: #555;
 }
 
-/* Estilo dos inputs e textarea */
+/* style of inputs and textarea */
 form input[type="text"],
 form input[type="email"],
 form textarea {
@@ -141,7 +151,7 @@ form textarea {
     color: #333;
 }
 
-/* Estilo do botão */
+/* style of button */
 form button {
     width: 100%;
     padding: 10px 20px;
@@ -153,7 +163,8 @@ form button {
     cursor: pointer;
 }
 
-/* Estilo do botão ao passar o mouse */
+
+/* Button style on hover */
 form button:hover {
     background-color: #0056b3;
 }
