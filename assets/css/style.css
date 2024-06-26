@@ -4,48 +4,79 @@
 	margin: 0;
 	padding: 0;
 }
+
 body {
-	font-family: Bank,Verdana, Geneva, Tahoma, sans-serif;
+	font-family: Bank, Verdana, Geneva, Tahoma, sans-serif;
 	background-color: #c01f1f;
 }
-body img{
+
+body img {
 	width: 400px;
 }
+
 header {
 	background-color: #333333c4;
 	color: #ffffff;
 	padding: 20px;
 	text-align: center;
 }
+
 /*navigation bar section*/
 nav {
 	background-color: #333;
-	box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 	display: flex;
 	align-items: flex-start;
 }
+
 nav ul {
-	list-style:none;
+	list-style: none;
 	margin: 0;
 	padding: 0;
 	display: flex;
 	justify-content: space-between;
-	align-items:center;
+	align-items: center;
 }
+
 nav li {
 	margin-right: 20px;
 }
+
 nav a {
 	color: #ffffff;
 	text-decoration: none;
-	padding:14px 20px;
-	display:block;
+	padding: 14px 20px;
+	display: block;
 	transition: background-color 0.3s, color 0.3s;
 }
-nav a:hover{
+
+nav a:hover {
 	background-color: #977373;
-	color:#fff;
+	color: #fff;
 }
+
+/* CSS to style the audio element */
+audio {
+	width: 25%;
+	margin-top: 20px;
+}
+
+audio::-webkit-media-controls-panel {
+	display: flex;
+	justify-content: flex-end;
+	gap: 10px;
+}
+
+audio::-webkit-media-controls-enclosure {
+	background: #ddd;
+	border-radius: 8px;
+	padding: 5px;
+}
+
+audio::cue {
+	display: none;
+}
+
 /*main section*/
 main {
 	display: flex;
@@ -53,17 +84,25 @@ main {
 	justify-content: center;
 	align-items: center;
 }
+
 section {
 	background-color: #fff;
 	padding: 20px;
 	margin: 20px;
 	width: 550px;
-   /* default width for desktop */
+	/* default width for desktop */
 }
-h1, h2 {
+
+section iframe {
+	width: 100%;
+}
+
+h1,
+h2 {
 	margin-bottom: 10px;
 }
-form{
+
+form {
 	max-width: 600px;
 	margin: 0 auto;
 	padding: 20px;
@@ -72,20 +111,25 @@ form{
 	border-radius: 8px;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
-form h2{
+
+form h2 {
 	display: block;
 	margin-bottom: 8px;
 	font-weight: bold;
 	color: #555;
 }
+
 form label {
 	display: block;
 	margin-bottom: 8px;
 	font-weight: bold;
 	color: #555;
 }
+
 /* style of inputs and textarea */
-form input[type="text"], form input[type="email"], form input[type="date"]{
+form input[type="text"],
+form input[type="email"],
+form input[type="date"] {
 	width: calc(100% - 20px);
 	padding: 10px;
 	margin-bottom: 20px;
@@ -95,6 +139,7 @@ form input[type="text"], form input[type="email"], form input[type="date"]{
 	font-size: 16px;
 	color: #333;
 }
+
 /* style of button */
 form button {
 	width: 100%;
@@ -106,12 +151,14 @@ form button {
 	font-size: 16px;
 	cursor: pointer;
 }
+
 /* Button style on hover */
 form button:hover {
 	background-color: #0056b3;
 }
+
 /*section for footer*/
-footer{
+footer {
 	background-color: #333;
 	bottom: 0;
 	width: 100%;
@@ -120,31 +167,35 @@ footer{
 	margin-top: 500px;
 	padding-top: 1%;
 }
+
 /* Media queries for responsive design */
 /* Mobile devices (max-width: 480px) */
 @media only screen and (max-width: 480px) {
 	nav ul {
 		flex-direction: column;
-   }
+	}
+
 	nav li {
 		margin-right: 0;
-   }
+	}
+
 	section {
 		width: 100%;
-	   /* full width for mobile */
-   }
+		/* full width for mobile */
+	}
 }
+
 /* Tablet devices (max-width: 768px) */
-@media only screen and (max-width: 768px){
-	nav ul{
-		flex-direction:column;
-   }
-	nav li{
-		margin-right:0;
-   }
+@media only screen and (max-width: 768px) {
+	nav ul {
+		flex-direction: column;
+	}
 
+	nav li {
+		margin-right: 0;
+	}
 
-	section{
-		width:90%;   
-   }
+	section {
+		width: 90%;
+	}
 }
