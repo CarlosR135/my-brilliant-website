@@ -9,6 +9,31 @@ Come and discover our small tourism company, where we provide a personalized and
 Or site:
 [Churches and Castles in Portugal](https://carlosr135.github.io/my-brilliant-website/)
 
+This is our main page where users can enjoy ambient music while checking prices for their future trip.
+![print](/assets/images/readme/ecraaaa.png)
+ 
+ 
+Through the navigation bar you have a link to the rest of the website
+![nav](/assets/images/readme/nave.jpeg)
+
+After consulting the prices, the user will create a travel expectation, this is our business strategy, then we will show you the various destinations with photographs and a short description.
+
+![tabel](/assets/images/readme/tabel.jpeg)
+
+![print](/assets/images/readme/acreee.png)
+![print](/assets/images/readme/acroo.png)
+
+After our visitor course consults our product, you can then proceed with your appointment!
+
+![form](/assets/images/readme/form.jpeg)
+
+![back](/assets/images/readme/action.jpeg)
+
+
+
+
+
+
 
 
 
