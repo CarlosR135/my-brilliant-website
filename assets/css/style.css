@@ -133,9 +133,6 @@ footer{
 		width: 100%;
 	   /* full width for mobile */
    }
-	body{
-		background-color: aqua;
-   }
 }
 /* Tablet devices (max-width: 768px) */
 @media only screen and (max-width: 768px){
