@@ -23,11 +23,11 @@ header {
 
 
 }
-nav{
-	background-color:#333;
-	box-shadow: 0 4px 8px rgba(0,0,0,0,01);
-	display: flex;
-	align-items: flex-start;
+nav {
+    background-color: #333;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3); 
+    display: flex;
+    align-items: flex-start;
 }
 
 nav ul {
@@ -52,7 +52,7 @@ nav a {
 	
 }
 nav a:hover{
-	background-color: color #977373;
+	background-color: #977373;
 	color:#fff;
 }
 
