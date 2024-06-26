@@ -9,7 +9,7 @@ body {
 	background-color: #c01f1f;
 }
 body img{
-	width: 150px;
+	width: 400px;
 }
 header {
 	background-color: #333333c4;
@@ -145,7 +145,9 @@ footer{
 	nav li{
 		margin-right:0;
    }
+
+
 	section{
-		width:100%;   
+		width:90%;   
    }
 }
