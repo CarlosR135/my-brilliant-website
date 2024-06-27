@@ -29,6 +29,22 @@ After our visitor course consults our product, you can then proceed with your ap
 
 ![back](/assets/images/readme/action.jpeg)
 
+List of technologies used:
+
+- HTML
+- CSS
+
+____________________________________________________
+
+Our project passed the w3c validator:
+
+![validator](/assets/images/readme/validator_htmll.PNG)
+![validatorr](/assets/images/readme/validator_htmllll.PNG)
+![validatorrr](/assets/images/readme/validator_htmlo.PNG)
+![vali](/assets/images/readme/vilidator_html.PNG)
+
+
+
 
 
 
