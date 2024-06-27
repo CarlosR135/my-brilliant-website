@@ -23,16 +23,28 @@ After consulting the prices, the user will create a travel expectation, this is 
 ![print](/assets/images/readme/acreee.png)
 ![print](/assets/images/readme/acroo.png)
 
-After our visitor course consults our product, you can then proceed with your appointment!
+After checking our offers, you can proceed with your appointment!
 
 ![form](/assets/images/readme/form.jpeg)
 
 ![back](/assets/images/readme/action.jpeg)
 
+Creator Goals:
+
+- Provide a goods service for users;
+- Create a web-page simple and responsive for the users can use anywere and anytime;
+
+
 List of technologies used:
+
 
 - HTML
 - CSS
+- Gitpod
+- Github
+- VisualStudio
+- Cutting tool
+- Google Dev Tools
 
 ____________________________________________________
 
@@ -46,9 +58,22 @@ Our project passed the w3c validator:
 ![css](/assets/images/readme/css_c.PNG)
 ![insues](/assets/images/readme/aaaaaaaa.PNG)
 
-Media
+Testing:
 
-- []
+-The page was tested on several devices and always showed positive behavior.
+
+Mobile:
+
+![mobile](/assets/images/readme/home-mobile.PNG)
+
+Desktop:
+
+![DESKTOP](/assets/images/readme/ecraaaa.png)
+
+
+
+
+
 
 
 
