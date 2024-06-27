@@ -43,6 +43,13 @@ Our project passed the w3c validator:
 ![validatorrr](/assets/images/readme/validator_htmlo.PNG)
 ![vali](/assets/images/readme/vilidator_html.PNG)
 
+![css](/assets/images/readme/css_c.PNG)
+![insues](/assets/images/readme/aaaaaaaa.PNG)
+
+Media
+
+- []
+
 
 
 
