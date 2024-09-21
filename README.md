@@ -70,32 +70,6 @@ Desktop:
 
 ![DESKTOP](/assets/images/readme/ecraaaa.png)
 
-Media
-__________
-
-Videos:
-
-[Youtube](https://www.youtube.com/watch?v=YyNwNL5Qh6g)
-
-[Youtube](https://www.youtube.com/watch?v=QimO1BIHQ9w)
-
-Sound:
-
-[Youtube](https://www.youtube.com/watch?v=-yOZEiHLuVU)
-
-Images:
-[img](https://visitsintra.travel/images/ver/monumentos/palacio_pena/PPena_800x500.jpg)
-[img](https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/ee/46/31.jpg
-)
-[img](https://www.planetware.com/photos-large/P/belem-tower.jpg)
-[img](https://casadovalle.com/wp-content/uploads/castelo-dos-mouros-2.jpg)
-[img](https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/93/6d.jpg)
-[img](https://www.movingtoportugal.pt/wp-content/uploads/2020/12/bom-jesus_braga_630x420-2.jpg)
-[img](https://www.movingtoportugal.pt/wp-content/uploads/2020/12/mosteiro_batalha_630x420-2.jpg)
-[img](https://www.movingtoportugal.pt/wp-content/uploads/2020/12/mosteiro_jeronimos_lisboa_630x420-2.jpg)
-[img](https://www.movingtoportugal.pt/wp-content/uploads/2020/12/santo_idelfonso_porto_630x420-2.jpg)
-[img](https://www.movingtoportugal.pt/wp-content/uploads/2020/12/senhor_da_pedra_gaia_630x420-2.jpg)
-______________________
 
 
 
