@@ -70,6 +70,16 @@ Desktop:
 
 ![DESKTOP](/assets/images/readme/ecraaaa.png)
 
+Ipad:
+
+![ipad](/assets/images/readme/ipadx.PNG)
+
+
+
+
+
+
+
 
 
 
