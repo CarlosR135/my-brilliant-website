@@ -10,24 +10,24 @@ Or site:
 [Churches and Castles in Portugal](https://carlosr135.github.io/my-brilliant-website/)
 
 This is our main page where users can enjoy ambient music while checking prices for their future trip.
-![print](/assets/images/readme/ecraaaa.png)
+![print](/assets/images/readme/printss.png)
  
  
 Through the navigation bar you have a link to the rest of the website
-![nav](/assets/images/readme/nave.jpeg)
+![nav](/assets/images/readme/capturarrr.png)
 
 After consulting the prices, the user will create a travel expectation, this is our business strategy, then we will show you the various destinations with photographs and a short description.
 
-![tabel](/assets/images/readme/tabel.jpeg)
+![tabel](/assets/images/readme/prices.png)
 
-![print](/assets/images/readme/acreee.png)
-![print](/assets/images/readme/acroo.png)
+![print](/assets/images/readme/image.png)
+![print](/assets/images/readme/castles.png)
 
 After checking our offers, you can proceed with your appointment!
 
-![form](/assets/images/readme/form.jpeg)
+![form](/assets/images/readme/formm.png)
 
-![back](/assets/images/readme/action.jpeg)
+![back](/assets/images/readme/take.png)
 
 Creator Goals:
 
@@ -50,13 +50,13 @@ ____________________________________________________
 
 Our project passed the w3c validator:
 
-![validator](/assets/images/readme/validator_htmll.PNG)
-![validatorr](/assets/images/readme/validator_htmllll.PNG)
-![validatorrr](/assets/images/readme/validator_htmlo.PNG)
-![vali](/assets/images/readme/vilidator_html.PNG)
+![validator](/assets/images/readme/validator_htmll.png)
+![validatorr](/assets/images/readme/validator_htmllll.png)
+![validatorrr](/assets/images/readme/validator_htmlo.png)
+![vali](/assets/images/readme/vilidator_html.png)
 
-![css](/assets/images/readme/css_c.PNG)
-![insues](/assets/images/readme/aaaaaaaa.PNG)
+![css](/assets/images/readme/css_c.png)
+
 
 Testing:
 
@@ -64,15 +64,15 @@ Testing:
 
 Mobile:
 
-![mobile](/assets/images/readme/home-mobile.PNG)
+![mobile](/assets/images/readme/iphone.png)
 
 Desktop:
 
-![DESKTOP](/assets/images/readme/ecraaaa.png)
+![DESKTOP](/assets/images/readme/dsktop.png)
 
 Ipad:
 
-![ipad](/assets/images/readme/ipadx.PNG)
+![ipad](/assets/images/readme/ipadd.png)
 
 
 
