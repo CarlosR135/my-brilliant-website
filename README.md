@@ -100,6 +100,58 @@ Ipad:
 
 ![ipad](/assets/images/readme/ipadd.png)
 
+# We tested other devices such as: 
+
+- Iphone SE
+- Iphone XR
+- Iphone 12 Pro
+- Iphone 14 Pro Max
+- Pixel 7
+- Samsung Galaxy S8+
+- Samsung Galaxy S20 Ultra
+- iPad Mini
+- iPad Air
+- iPad Pro
+- Surface Pro 7
+- Surface Duo
+- Galaxy Fold
+- Samsung Galaxy A51/71
+- Nest Hub
+- Nest Hub Max
+
+# Broser Testing
+
+During development, webpage was mainly tested on Google Chrome. However, during testing process below browsers have been used :
+
+- Google Chrome
+- Microsoft Edge
+- Mozilla Firefox
+- Opera
+- Safari
+
+## Deployment 
+
+The master branch of this repository is the most current version and has been used for the deployed version of the site. The Code Institiue student template was used to create this project.
+
+[Cod_Institute_Template](https://github.com/Code-Institute-Org/gitpod-full-template)
+
+- Click Use This Template button.
+- Give your repository a name, and description.
+- Open with Gitpod and star to work.
+
+# Credits
+
+## Images 
+
+- [Website_About_Sintra](https://visitsintra.travel/pt/visitar/monumentos/palacio-nacional-da-pena)
+
+## Videos
+
+- Youtube [Movie_Pena_Palace](https://www.youtube.com/watch?v=QimO1BIHQ9w)
+          [Movie_Geronimos_Monastery](https://www.youtube.com/watch?v=YyNwNL5Qh6g)
+
+
+### Thank you for read this documentation!
 
 
 
@@ -109,7 +161,8 @@ Ipad:
 
 
 
-Thanks for read my project!
+
+
 
 
 
